@@ -3,6 +3,8 @@ const btn = document.querySelector("#btn");
 const title = document.querySelector("header h1");
 const list = document.querySelectorAll("header ul li ");
 
+document.body.style.fontFamily="Oswald"
+
 header.style.backgroundColor = "red";
 header.style.color = "white";
 header.style.textAlign = "center";
